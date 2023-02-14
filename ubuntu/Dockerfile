@@ -1,1 +1,1 @@
-FROM ubuntu:18.04@sha256:fcebd6734dcbffd0c328771b11a0d00a8045f58ee5d3e083d3afdb54c72dab8b
+FROM ubuntu:18.04@sha256:fdd3c9372c19afa928f99afde58f0f80a008ebb695a8c5ee37de5adb7feb46de
