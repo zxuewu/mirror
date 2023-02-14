@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM --platform=linux/386 ubuntu:18.04
 LABEL xwzhu="xwzhu7@iflytek.com"
 ARG DEBIAN_FRONTEND=noninteractive
 WORKDIR /home
